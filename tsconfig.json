@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": false,
+        "esModuleInterop": true,
+        "downlevelIteration": true,
+        "target": "esnext",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "lib": [
+            "DOM"
+        ],
+        "outDir": "out"
+    }
+}
